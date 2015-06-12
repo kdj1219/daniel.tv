@@ -1,0 +1,4 @@
+name        = Daniel Admin
+description = Admin theme by Daniel
+core        = 7.x
+base theme  = adminimal
